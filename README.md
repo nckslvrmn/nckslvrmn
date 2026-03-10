@@ -20,4 +20,7 @@ I like making web apps that serve small but useful purposes.
 - 📄 **[resume](https://github.com/nckslvrmn/resume)** — my serverless, automated resume (published via GitHub Pages).  
   🌐 https://resume.nckslvr.mn/
 
-[![Nick's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nckslvrmn&count_private=true&show_icons=true&theme=dracula)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nckslvrmn&count_private=true&show_icons=true&theme=dracula" alt="Nick's GitHub stats"/>
+</div>
