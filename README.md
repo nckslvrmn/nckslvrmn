@@ -1,6 +1,6 @@
 # Hello, I am Nick
 
-I am a Senior Infrastructure Engineer at Shopify! Most of my work is done in Ruby, Go, and Terraform.
+I am a Senior Infrastructure Engineer at Shopify! Most of my work is done in Rust, Go, and Ruby.
 
 I like making web apps that serve small but useful purposes.
 
