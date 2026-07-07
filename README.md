@@ -20,6 +20,12 @@ I like making web apps that serve small but useful purposes, and automating thin
 - 📄 **[resume](https://github.com/nckslvrmn/resume)**: my serverless, automated resume (published via GitHub Pages).
   🌐 https://resume.nckslvr.mn/
 
+## Open source contributions
+
+- Contributed several ACME protocol improvements to [unixcharles/acme-client](https://github.com/unixcharles/acme-client), including ARI support, `Retry-After` handling, RFC 7807 sub-problem exposure, and typed challenge errors.
+- Contributed to [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws), adding ECS Capacity Provider support to CloudWatch Event targets.
+- Contributed to [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer), updating AWS SDK v2 dependencies across the project.
+
 ## Written things
 
 - 🔏 **[Simplifying Certificate Renewals for Millions of Domains with ACME Renewal Information (ARI)](https://letsencrypt.org/2026/03/17/acme-renewal-information-ari)**: on the Let's Encrypt blog.
