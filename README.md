@@ -39,7 +39,7 @@ I like making web apps that serve small but useful purposes, and automating thin
 ## Elsewhere
 
 - 🌐 Personal site: https://nckslvr.mn
-- ✍️ Blog: https://blog.nckslvr.mn
+- ✍️ Blog: https://nckslvr.mn/posts/
 
 <div align="center">
   <br />
