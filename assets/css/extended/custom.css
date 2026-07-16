@@ -59,3 +59,19 @@
 .post-content img {
     border-radius: 8px;
 }
+
+/* Non-linked tag pills shown under the post meta (taxonomy pages are disabled) */
+.post-header .post-tags {
+    margin-top: 12px;
+}
+
+.post-tags span {
+    display: block;
+    padding: 0 14px;
+    color: var(--secondary);
+    font-size: 14px;
+    line-height: 34px;
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}

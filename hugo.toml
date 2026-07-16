@@ -5,6 +5,7 @@ title = "Nick Silverman"
 theme = "PaperMod"
 
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 buildDrafts = false
 buildFuture = false
 pygmentsUseClasses = true
@@ -56,23 +57,25 @@ pygmentsUseClasses = true
     weight = 5
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Blog"
     url = "/posts/"
     weight = 10
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 20
-  [[menu.main]]
-    identifier = "archive"
-    name = "Archive"
-    url = "/archives/"
-    weight = 30
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume/"
+    weight = 20
+  [[menu.main]]
+    identifier = "github"
+    name = "GitHub"
+    title = "GitHub"
+    url = "https://github.com/nckslvrmn"
+    weight = 30
+  [[menu.main]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    title = "LinkedIn"
+    url = "https://lnkd.in/FSBXQP"
     weight = 40
 
 [markup]
