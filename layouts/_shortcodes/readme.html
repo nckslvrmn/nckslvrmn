@@ -1,0 +1,5 @@
+{{- /* Renders the repo-root profile README as page content,
+       minus blocks fenced by site-exclude comment markers */ -}}
+{{- $md := os.ReadFile "README.md" -}}
+{{- $md = replaceRE `(?s)<!-- site-exclude-start -->.*?<!-- site-exclude-end -->` "" $md -}}
+{{- $md | $.Page.RenderString (dict "display" "block") -}}

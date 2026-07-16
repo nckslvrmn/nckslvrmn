@@ -1,0 +1,14 @@
+{{- /* Renders "2 years 3 months" from {startDate, endDate?}; open-ended positions use the build date */ -}}
+{{- $start := time.AsTime .startDate -}}
+{{- $end := now -}}
+{{- with .endDate }}{{ $end = time.AsTime . }}{{ end -}}
+{{- $months := add (mul (sub $end.Year $start.Year) 12) (sub (int ($end.Format "1")) (int ($start.Format "1"))) -}}
+{{- $y := div $months 12 -}}
+{{- $m := mod $months 12 -}}
+{{- if eq $y 0 -}}
+{{ $m }} month{{ if ne $m 1 }}s{{ end }}
+{{- else if eq $m 0 -}}
+{{ $y }} year{{ if ne $y 1 }}s{{ end }}
+{{- else -}}
+{{ $y }} year{{ if ne $y 1 }}s{{ end }} {{ $m }} month{{ if ne $m 1 }}s{{ end }}
+{{- end -}}

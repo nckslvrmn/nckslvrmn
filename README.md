@@ -4,21 +4,26 @@ I'm a Senior Infrastructure Engineer at [Shopify](https://github.com/Shopify). M
 
 I like making web apps that serve small but useful purposes, and automating things that probably didn't need automating.
 
+<!-- site-exclude-start -->
+## Main site
+
+Everything lives at **[nckslvr.mn](https://nckslvr.mn)** now:
+
+- ✍️ **[Blog](https://nckslvr.mn/posts/)**: posts on infrastructure, DevOps, and home lab tinkering.
+- 📄 **[Resume](https://nckslvr.mn/resume/)**: rendered from JSON at build time, also available as a [PDF](https://nckslvr.mn/resume.pdf).
+<!-- site-exclude-end -->
+
 ## Notable projects
 
-- 🔐 **[Whisper](https://github.com/nckslvrmn/whisper)**: end-to-end encrypted, zero-knowledge secret (and file) sharing, written in Go.
-  🌐 https://whisper.slvr.io
+- 🔐 **[Whisper](https://github.com/nckslvrmn/whisper)** · [whisper.slvr.io](https://whisper.slvr.io) — end-to-end encrypted, zero-knowledge secret (and file) sharing, written in Go.
 
-- 🥃 **[bar_keep](https://github.com/nckslvrmn/bar_keep)**: a simple inventory manager for your home bar (Rails/PWA).
+- 🖥️ **[arconn](https://github.com/ruelala/arconn)** — a CLI for remotely connecting to AWS resources using SSM, written in Go. Backed by a [fork of AWS's session-manager-plugin](https://github.com/RueLaLa/session-manager-plugin) that makes it importable as a library.
 
-- 🔗 **[url_shortener](https://github.com/nckslvrmn/url_shortener)**: serverless URL shortener on AWS (Lambda + API Gateway + DynamoDB + Terraform).
-  🌐 https://s.slvr.io/
+- 🥃 **[bar_keep](https://github.com/nckslvrmn/bar_keep)** — a simple inventory manager for your home bar (Rails/PWA).
 
-- 🎧 **[daily_audiophile](https://github.com/nckslvrmn/daily_audiophile)**: a statically rendered RSS aggregator for audiophile news, auto-updated and hosted on GitHub Pages.
-  🌐 https://daily-audiophile.slvr.io/
+- 🔗 **[url_shortener](https://github.com/nckslvrmn/url_shortener)** · [s.slvr.io](https://s.slvr.io) — serverless URL shortener on AWS (Lambda + API Gateway + DynamoDB + Terraform).
 
-- 📄 **[resume](https://github.com/nckslvrmn/resume)**: my serverless, automated resume (published via GitHub Pages).
-  🌐 https://resume.nckslvr.mn/
+- 🎧 **[daily_audiophile](https://github.com/nckslvrmn/daily_audiophile)** · [daily-audiophile.slvr.io](https://daily-audiophile.slvr.io) — a statically rendered RSS aggregator for audiophile news, auto-updated and hosted on GitHub Pages.
 
 ## Open source contributions
 
@@ -36,11 +41,7 @@ I like making web apps that serve small but useful purposes, and automating thin
 
 - 🐧 **[arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2)**: a runbook for installing Arch Linux in WSL2. Obsoleted by official support, but it had a good run.
 
-## Elsewhere
-
-- 🌐 Personal site: https://nckslvr.mn
-- ✍️ Blog: https://nckslvr.mn/posts/
-
+<!-- site-exclude-start -->
 <div align="center">
   <br />
   <picture>
@@ -48,3 +49,5 @@ I like making web apps that serve small but useful purposes, and automating thin
     <img src="https://github-readme-stats-fast.vercel.app/api?username=nckslvrmn&count_private=true&show_icons=true" alt="Nick's GitHub stats" />
   </picture>
 </div>
+
+<!-- site-exclude-end -->

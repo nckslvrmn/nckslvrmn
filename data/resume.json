@@ -1,0 +1,362 @@
+{
+  "basics": {
+    "name": "Nick Silverman",
+    "label": "Senior Infrastructure Engineer",
+    "picture": "https://gravatar.webp.se/avatar/6bea3244af7ecd0ff34e25bed7184997?s=256",
+    "email": "nckslvrmn@gmail.com",
+    "website": "https://nckslvr.mn",
+    "summary": "Expert in design and implementation of scalable cloud-native platforms, services, and infrastructure that solve for complex business needs. Extensive experience in creating modern DevOps standards for all facets of the development and operational life cycles that drive accelerated innovation and increased reliability/sustainability. Robust background in AWS core services, and networking technologies with an infrastructure as code first approach. Accomplished lead building strong, highly skilled, and autonomous teams.",
+    "location": {
+      "city": "Cambridge",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "url": "https://github.com/nckslvrmn",
+        "short_url": "github.com/nckslvrmn"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://lnkd.in/FSBXQP",
+        "short_url": "lnkd.in/FSBXQP"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Shopify",
+      "website": "https://www.shopify.com/",
+      "positions": [
+        {
+          "position": "Senior Infrastructure Engineer",
+          "startDate": "2025-11-01",
+          "summary": "",
+          "highlights": []
+        },
+        {
+          "position": "Infrastructure Engineer",
+          "startDate": "2025-02-11",
+          "endDate": "2025-11-01",
+          "summary": "",
+          "highlights": []
+        }
+      ]
+    },
+    {
+      "company": "Rue Gilt Groupe",
+      "website": "https://ruegiltgroupe.com/",
+      "positions": [
+        {
+          "position": "Engineering Manager, Cloud Infrastructure",
+          "startDate": "2024-07-15",
+          "endDate": "2025-01-27",
+          "summary": "",
+          "highlights": [
+            "Led a team of high performing cloud infrastructure engineers responsible for both maintaining multiple cloud environments and designing/implementing cross-functional projects aligning with business goals",
+            "Championed replacement of our primary CDN which resulted in a drastic improvement in development speed and efficiency, and a nearly $300,000 annual cost reduction",
+            "Organized tech-wide replacement of a legacy job scheduling system, bringing mission critical asynchronous tasks into the cloud-native world and improving resiliency, reliability, and repeatability"
+          ]
+        },
+        {
+          "position": "Principal Cloud Infrastructure Engineer",
+          "startDate": "2019-07-29",
+          "endDate": "2024-07-15",
+          "summary": "Principal individual responsible for working with development teams across the technology organization to design complex systems architectures cloud infrastructure. Creating operational standards and best practices to multiply the capabilities of all team members. Leading major technology initiatives to drive the future success of the business.",
+          "highlights": [
+            "Led multi-year, multi-department project to decommission legacy Active Directory domain used throughout the company",
+            "Created, socialized, and built business standards and infrastructure for scalable, resilient container infrastructure and orchestration for all current and future production systems",
+            "Designed and implemented multi-region, multi-account, and hybrid networking solution for cross environment and office network connectivity on AWS including secure third-party partner access",
+            "Contributed to AWS open-source codebases and authored public blog posts on AWS official blog",
+            "Developed container runtime for legacy .net applications, leading in the modernization of their infrastructure in collaboration with the development teams",
+            "Created training curriculum and instructed teams on cloud-native architectures and best practices",
+            "Managed AWS and cloud costs, building clear tagging and reporting standards for all resources. Calculated and executed on enterprise savings and discount plans with AWS",
+            "Designed and developed real time production uptime monitoring and reporting system, providing high level, single pane of glass views for business stakeholders"
+          ]
+        },
+        {
+          "position": "Staff Cloud Infrastructure Engineer",
+          "startDate": "2018-11-27",
+          "endDate": "2019-07-29",
+          "summary": "Experienced cloud infrastructure engineer driving standards and best practices in modern AWS environments. Developed automation tooling to accelerate platform maturity and increased cloud-native usage.",
+          "highlights": [
+            "Re-platformed multiple services to scalable, resilient containerized architectures",
+            "Developed and implemented standards for complex, modularized, and repeatable Infrastructure as code via terraform used across technology organization",
+            "Led integration and redesign of cloud infrastructure from a business acquisition"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "SessionM",
+      "website": "https://sessionm.com",
+      "positions": [
+        {
+          "position": "Director of DevOps",
+          "startDate": "2018-04-01",
+          "endDate": "2018-11-25",
+          "summary": "Department leader, mentor, and primary point of contact for DevOps across the business. Led the team in architecture and complex systems development. Regular contact with executive level leadership to steer future of tech from the DevOps lens.",
+          "highlights": [
+            "Spearheaded re-platforming of acquired business to standardize operations and increase integration with core technologies",
+            "Oversaw DevOps team responsible for AWS deployments and maintenance, and site reliability efforts",
+            "Designed and developed a streamlined tracking process for provisioning new customer environments",
+            "Owned and managed operational budgets across all DevOps vendors including AWS, Atlassian, Fastly, etc.",
+            "Collaborated across tech teams to support and improve systems supporting CI/CD and customer environments"
+          ]
+        },
+        {
+          "position": "Senior DevOps Engineer",
+          "startDate": "2017-08-01",
+          "endDate": "2018-04-01",
+          "summary": "Team lead who oversaw and organized major platform changes and projects. Designed tooling for further internal automation.",
+          "highlights": [
+            "Unified Puppet codebase so all platforms are configured and operate uniformly.",
+            "Authored and deployed internal Ruby web services for employee use and platform automation and monitoring.",
+            "Designed and organized architecture for all new platform features in collaboration with engineering teams.",
+            "Coordinated platform-wide improvements and planned maintenance with the organization and customers.",
+            "Created systems for improved internal platform stability and performance.",
+            "Built out the platform into new global regions in an effort to expand to global markets.",
+            "Developed and managed AWS and vendor business and technical relationships."
+          ]
+        },
+        {
+          "position": "DevOps Engineer",
+          "startDate": "2016-04-01",
+          "endDate": "2017-08-01",
+          "summary": "Primary developer and maintainer of the production platforms. Designed and implemented a re-architecture of the platform infrastructure. Responsible for 24/7 NOC and SLA level support.",
+          "highlights": [
+            "Designed and implemented a multi-tenant architecture for the production platform that is cost efficient and scalable for any size customer.",
+            "Migrated legacy platform from on-prem solution to full-cloud solution.",
+            "Improved platform stability with near real-time monitoring solution and automated service-level management.",
+            "Designed multi-region DR remediation plans and processes to ensure fault tolerance.",
+            "Automated new tenant creation and created CI/CD for the product.",
+            "Maintained custom web-server and other application binaries, optimized for the production platform.",
+            "Converted infrastructure to Terraform code and designed drop-in modules for all future infrastructure.",
+            "Crafted incident response workflow and process for multi-tier support."
+          ]
+        },
+        {
+          "position": "Junior DevOps Engineer",
+          "startDate": "2015-07-01",
+          "endDate": "2016-04-01",
+          "summary": "Learned the platform architecture to grow into an individual contributor. Maintained the operation of the legacy platform and assisted in the implementation of a new platform for enterprise customers.",
+          "highlights": [
+            "Implemented corporate Windows infrastructure via Active Directory and migrated from Open Directory.",
+            "Authored monitoring scripts for various aspects of the platform.",
+            "Designed and implemented automated external monitoring solution for internal and external customers.",
+            "Deployed new production platforms for on-boarding clients."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Hachette Book Group",
+      "website": "https://www.hachettebookgroup.com/",
+      "positions": [
+        {
+          "position": "IT Desktop Support Analyst",
+          "startDate": "2014-09-01",
+          "endDate": "2015-07-01",
+          "summary": "Provided Level Two support for all hardware and software. Managed multiple inventory and package management systems. Built and configured multiple Linux servers for internal support tools using Puppet."
+        },
+        {
+          "position": "IT Help Desk Analyst",
+          "startDate": "2014-08-01",
+          "endDate": "2014-09-01",
+          "summary": "First line of technical support for all HBG employees. Supported Microsoft Office, Adobe CS Suite, and many other internal systems and applications on Mac and PC."
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "website": "https://www.apple.com/",
+      "positions": [
+        {
+          "position": "Expert",
+          "startDate": "2013-08-01",
+          "endDate": "2014-08-01",
+          "summary": "Sales leader in all metrics of the store. Provided technical and sales support for more advanced customers and specialists. Trained and mentored specialists and led store meetings."
+        },
+        {
+          "position": "Specialist",
+          "startDate": "2012-10-01",
+          "endDate": "2013-08-01",
+          "summary": "Sales and support for all customers of the Apple Retail Store. Performed basic troubleshooting of iOS and Mac issues."
+        }
+      ]
+    },
+    {
+      "company": "AppleCare",
+      "website": "https://support.apple.com/contact",
+      "positions": [
+        {
+          "position": "At Home Advisor (iOS)",
+          "startDate": "2012-04-01",
+          "endDate": "2012-10-01",
+          "summary": "Provided phone support for iOS devices, iTunes, and Apple ID. Certified on iOS device hardware and software."
+        }
+      ]
+    },
+    {
+      "company": "The Center for 21st Century Skills",
+      "website": "https://www.skills21.org/",
+      "positions": [
+        {
+          "position": "IT Intern",
+          "startDate": "2012-08-01",
+          "endDate": "2014-08-01",
+          "summary": "Technical Engineer for TEDx LitchfieldED conference. Audio/Visual support for 2012 Connecticut Student Innovation Expo. Maintained mobile iPod touch and MacBook labs."
+        }
+      ]
+    },
+    {
+      "company": "Miss Porters School",
+      "website": "https://www.porters.org/",
+      "positions": [
+        {
+          "position": "IT/Technical Support",
+          "startDate": "2011-04-01",
+          "endDate": "2011-09-01",
+          "summary": "Hardware, software, and peripheral support throughout campus, Mac and PC. Managed Cisco switches and other network devices."
+        }
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Wentworth Internet Radio and Entertainment",
+      "position": "Music and Library Manager",
+      "website": "https://wire.wit.edu/",
+      "startDate": "2012-09-01",
+      "endDate": "2014-06-01",
+      "summary": "Managed the digital library of music and media for the station. Organized purchase and distribution of digital content."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wentworth Institute of Technology",
+      "area": "Computer Networking and Information Systems",
+      "studyType": "",
+      "startDate": "2012-09-01",
+      "endDate": "2014-06-01"
+    },
+    {
+      "institution": "Berklee College of Music",
+      "area": "Music Production and Engineering",
+      "studyType": "",
+      "startDate": "2011-09-01",
+      "endDate": "2012-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS Technologies",
+      "keywords": [
+        "Amazon EventBridge",
+        "Amazon MQ",
+        "Amazon OpenSearch Service",
+        "Amazon Redshift",
+        "Amazon Simple Email Service",
+        "API Gateway",
+        "Athena",
+        "AWS Auto Scaling",
+        "AWS Backup",
+        "AWS Organizations",
+        "AWS Outposts",
+        "AWS Resource Explorer",
+        "AWS Transfer Family",
+        "Batch",
+        "Billing and Cost Management",
+        "Certificate Manager",
+        "CloudFormation",
+        "CloudFront",
+        "CloudTrail",
+        "CloudWatch",
+        "CodeBuild",
+        "CodeCommit",
+        "CodeDeploy",
+        "CodePipeline",
+        "Config",
+        "Database Migration Service",
+        "DataSync",
+        "Direct Connect",
+        "Directory Service",
+        "DynamoDB",
+        "EC2",
+        "EFS",
+        "Elastic Container Registry",
+        "Elastic Container Service",
+        "ElastiCache",
+        "EMR",
+        "FSx",
+        "IAM Identity Center",
+        "IAM",
+        "Key Management Service",
+        "Kinesis",
+        "Lambda",
+        "RDS",
+        "Resource Access Manager",
+        "Route 53",
+        "S3 Glacier",
+        "S3",
+        "Secrets Manager",
+        "Simple Notification Service",
+        "Simple Queue Service",
+        "Storage Gateway",
+        "Systems Manager",
+        "Transit Gateway",
+        "Trusted Advisor",
+        "VPC",
+        "WorkSpaces"
+      ]
+    },
+    {
+      "name": "Cloud Services/Technologies",
+      "keywords": [
+        "Akamai",
+        "Atlassian Suite",
+        "DataDog",
+        "Fastly",
+        "GitHub",
+        "PagerDuty",
+        "Slack"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "Active Directory",
+        "Ansible",
+        "Docker",
+        "Git",
+        "Jenkins",
+        "Mysql/Aurora",
+        "Nginx/Apache",
+        "Puppet",
+        "Terraform",
+        "VMWare/ESXI"
+      ]
+    },
+    {
+      "name": "Linux Distributions",
+      "keywords": [
+        "Amazon Linux",
+        "RHEL/CentOS",
+        "Ubuntu/Debian",
+        "Bottle Rocket",
+        "Arch Linux"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "Golang",
+        "Ruby",
+        "HCL",
+        "Bash"
+      ]
+    }
+  ]
+}

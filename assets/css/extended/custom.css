@@ -1,0 +1,61 @@
+:root {
+    --content-gap: 22px;
+}
+
+.home-icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.home-info {
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
+    margin: 0;
+    text-align: center;
+}
+
+.home-info .entry-header h1 {
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+}
+
+.home-info .entry-content {
+    font-size: clamp(1.1rem, 3vw, 1.5rem);
+    font-weight: 300;
+    opacity: 0.9;
+}
+
+.home-info .entry-content p {
+    margin: 0;
+}
+
+.home-info .entry-footer {
+    margin-top: 1.5rem;
+}
+
+.home-info .social-icons {
+    display: flex;
+    gap: 1.75rem;
+    justify-content: center;
+}
+
+.home-info .social-icons a {
+    padding: 0;
+}
+
+.home-info .social-icons a svg {
+    height: 45px;
+    width: 45px;
+}
+
+@media (max-width: 768px) {
+    .home-info .social-icons {
+        gap: 1rem;
+    }
+}
+
+.post-content img {
+    border-radius: 8px;
+}

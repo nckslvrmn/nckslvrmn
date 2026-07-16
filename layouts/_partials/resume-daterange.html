@@ -1,0 +1,3 @@
+{{- /* Renders "Aug 2017 – Apr 2018" or "Nov 2025 – Present" from {startDate, endDate?} */ -}}
+{{- $start := time.AsTime .startDate -}}
+{{- $start.Format "Jan 2006" }} – {{ with .endDate }}{{ (time.AsTime .).Format "Jan 2006" }}{{ else }}Present{{ end -}}
