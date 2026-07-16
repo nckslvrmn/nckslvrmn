@@ -7,7 +7,7 @@ I like making web apps that serve small but useful purposes, and automating thin
 <!-- site-exclude-start -->
 ## Main site
 
-Everything lives at **[nckslvr.mn](https://nckslvr.mn)** now:
+Everything lives at **[nckslvr.mn](https://nckslvr.mn)**:
 
 - ✍️ **[Blog](https://nckslvr.mn/posts/)**: posts on infrastructure, DevOps, and home lab tinkering.
 - 📄 **[Resume](https://nckslvr.mn/resume/)**: rendered from JSON at build time, also available as a [PDF](https://nckslvr.mn/resume.pdf).
