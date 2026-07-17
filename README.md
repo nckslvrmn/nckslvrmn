@@ -42,12 +42,7 @@ Everything lives at **[nckslvr.mn](https://nckslvr.mn)**:
 - 🐧 **[arch_linux_wsl2](https://github.com/nckslvrmn/arch_linux_wsl2)**: a runbook for installing Arch Linux in WSL2. Obsoleted by official support, but it had a good run.
 
 <!-- site-exclude-start -->
-<div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nckslvrmn&count_private=true&show_icons=true&theme=dracula" />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=nckslvrmn&count_private=true&show_icons=true" alt="Nick's GitHub stats" />
-  </picture>
-</div>
+## Github Stats
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nckslvrmn&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=nckslvrmn&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
 <!-- site-exclude-end -->
