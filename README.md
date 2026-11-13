@@ -44,5 +44,5 @@ Everything lives at **[nckslvr.mn](https://nckslvr.mn)**:
 <!-- site-exclude-start -->
 ## Github Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nckslvrmn&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=nckslvrmn&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nckslvrmn&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=nckslvrmn&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula)
 <!-- site-exclude-end -->
